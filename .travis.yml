@@ -4,5 +4,4 @@ dotnet: 3.1.202
 solution: OOP_Lab.sln
 script: 
  - dotnet build OOP_Lab.sln
- - dotnet restore
  - dotnet test OOP_Lab.sln
