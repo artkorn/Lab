@@ -1,0 +1,6 @@
+language: csharp
+mono: none
+dotnet: 3.1
+solution: OOP_Lab1.sln
+  - dotnet restore
+  - dotnet test
