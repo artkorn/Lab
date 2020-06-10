@@ -3,4 +3,4 @@ mono: none
 dotnet: 3.1.202
 solution: OOP_Lab.sln
 script: 
- - dotnet restore
+ - dotnet test
