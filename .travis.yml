@@ -5,4 +5,4 @@ solution: OOP_Lab.sln
 script: 
  - dotnet build OOP_Lab.sln
  - dotnet restore
- - dotnet test
+ - dotnet test OOP_Lab.sln
